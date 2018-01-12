@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-fibonacci",
+      "appliesTo": "fibonacci.cpp",
+      "type": "launch"
+    },
+    {
+      "taskName": "task-Algorithms",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}

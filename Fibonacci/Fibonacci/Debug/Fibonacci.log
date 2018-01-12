@@ -1,0 +1,8 @@
+﻿  fibonacci.cpp
+c:\users\seth b\documents\github\algorithms\fibonacci.cpp(46): error C2374: 'c_start': redefinition; multiple initialization
+  c:\users\seth b\documents\github\algorithms\fibonacci.cpp(40): note: see declaration of 'c_start'
+c:\users\seth b\documents\github\algorithms\fibonacci.cpp(48): error C2374: 'c_end': redefinition; multiple initialization
+  c:\users\seth b\documents\github\algorithms\fibonacci.cpp(42): note: see declaration of 'c_end'
+c:\users\seth b\documents\github\algorithms\fibonacci.cpp(49): error C2374: 'time_elapsed_ms': redefinition; multiple initialization
+  c:\users\seth b\documents\github\algorithms\fibonacci.cpp(43): note: see declaration of 'time_elapsed_ms'
+c:\users\seth b\documents\github\algorithms\fibonacci.cpp(50): error C2088: '<<': illegal for class
